@@ -10,8 +10,6 @@
 
 ## 🚀 Resumo
 
-This project was a big challenge for me, especially because of the background and the profile picture positioning. I'm proud of the final result, but I know there's still plenty of room for improvement. So, I'm completely open to suggestions and feedback on how I can keep getting better.
-
 ### 📸 Screenshot
 
 ![](/src/images/Screenshot_Desktop.png)
